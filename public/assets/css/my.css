@@ -1,0 +1,1516 @@
+.aboutimages{
+	width: 100% !important;
+	height:100% !important;
+	/* float: right; */
+	font-family: Roboto !important;
+	font-style: normal !important;
+}
+.abhd{
+	width: 100%;
+	height: 20%;
+	font-style: normal;
+	margin-top: 20px;
+}
+.frameimg{
+	width: 40%;
+	height: 100%;
+	position: absolute;
+	top: 50px;
+	right: 10px;
+}
+.imgheadercnt{
+  width: 390px;
+  height: 50px;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  position: relative;
+}
+.imgabtcnt{
+  width: 300px;
+  height: 100%;
+}
+.abouttext{
+	width: 100%;
+	height: 100%;
+	text-align: justify;
+	color: #797979;
+	border-left: 2px solid #EE600D;
+}
+.sidebar h1{
+padding-left: 10px;
+font-family: Roboto !important;
+font-style: normal !important;
+
+}
+.aboutcntimg{
+	width: 100%;
+	height:100%;
+	background-image:url('assets/img/Ellipse.png');
+	border: 5px solid #EE600D ;
+	border-radius: 50%;
+	padding: 5px;
+	background: rgba(255, 255, 255, 0.3);
+	box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+}
+.aboutcntimg30{
+
+	width: 100%;
+	height:65%;
+	margin-top: 20px;
+}
+.aboutrw{
+	margin-left: -5px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 20px;
+}
+.readbtn{
+	width: 100px;
+	margin-top: 30px;
+	margin-left: 2px;
+}
+.abtxt{
+	width: 50%;
+	height: 80%;
+	margin-left: -20px;
+	margin-top: 10px;
+	font-size:32px;
+}
+.abtgrp{
+	width:100%;
+	height:30% !important;
+}
+
+.astroht{
+	width: 60%;
+	height: 30%;
+	text-align: center;
+	font-size: 16px;
+	color: #797979;
+	margin-left: 220px;
+}
+.ourservice{
+	position: relative;
+	height: 400px !important;
+	width:100% !important;
+	margin-left: 80px;
+	margin-top:10px !important;
+}
+.ourservice p{
+	text-align: center;
+	color: white;
+	padding-left: 50px;
+	padding-right:50px ;
+}
+.items{
+	position: absolute;
+	top: 20px;
+}
+.item2{
+	position: absolute;
+	height: 400px;
+	min-width: 50%;
+	right: 60px;
+}
+.mblcnt{
+	width:550px;
+	height:300px;
+	margin-top:120px;
+}
+.seeallbtn{
+	width:110px;
+	height:40px;
+	margin-top: 30px;
+	text-align: center;
+}
+.astroimg{
+	margin: 10px;
+	width: 420px;
+    height: 420px;
+}
+.astroimg1{
+	margin:5px;
+	width:120px;
+	height:120px;
+}
+/* .astroimg{
+	margin: 10px;
+	width:80%;
+	height:80%;
+} */
+.astroimg1{
+	margin:5px;
+	width:120px;
+	height:120px;
+}
+.srvsimg1{
+	margin-top:60px;
+	width:80px;
+	height:80px;
+}
+.cards{
+	margin-top: 10px;
+}
+.srvsdiv{
+	width: 350px;
+	height:150px;
+	margin-left:10px;
+	background: #FFFFFF;
+	opacity: 0.8;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+	border-radius: 4px;
+	margin-bottom:10px;
+}
+.cntmainblk{
+	width: 500px;
+	margin-left:50px;
+}
+.cntmainblk1{
+	width: 500px;
+	margin-left:20px;
+}
+.cntblk{
+	width: 500px;
+	height:auto;
+	background: #FFFFFF;
+	opacity: 0.8;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+	border-radius: 4px;
+}
+.cntblk1{
+	width: 500px;
+	height:auto;
+	background: #FFFFFF;
+	opacity: 0.8;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+	border-radius: 4px;
+}
+.cntmapblk{
+	margin-top:10px;
+	width: 500px;
+	height:auto;
+	background: #FFFFFF;
+	opacity: 0.8;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+	border-radius: 4px;
+}
+.cntlogo{
+	text-align: right;
+	padding-left: 20px;
+	padding-top: 5px;
+}
+.cntblkcard{
+	width: 450px;
+
+}
+
+.cntblk_head{
+	color: #505050;
+	font-weight: bold;
+	font-size: 32px;
+	margin: 20px;
+}
+.cntblk_map{
+	width: 500px;
+	height: 150px;
+}
+.map-container-5{
+overflow:hidden;
+padding-bottom:56.25%;
+position:relative;
+height:0;
+}
+.map-container-5 iframe{
+left:0;
+top:0;
+height:150px;
+width:500px;
+position:absolute;
+}
+.cntblk_txt{
+	color: #505050;
+	margin-left: 20px;
+	text-align: justify;
+	font-size: 12px;
+}
+.cntfrmdiv{
+	margin: 20px;
+}
+.frmcnt{
+	margin: 20px;
+}
+.astrodiv{
+	width: 350px;
+	min-height:200px;
+	background: #FFFFFF;
+	opacity: 0.8;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+	border-radius: 4px;
+}
+.astrodiv1{
+	width: 350px;
+	height:200px;
+	margin-left:10px;
+	background: #FFFFFF;
+	opacity: 0.8;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+	border-radius: 4px;
+}
+.astrodhdiv{
+		width: 350px;
+	height:200px;
+	margin-left:20px;
+}
+.astrocard{
+	width: 350px;
+	height:180px;
+
+}
+.srvscard{
+	width: 350px;
+	height: 150px;
+}
+.astrodetail_title{
+	color: #000000;
+	font-weight: bold;
+	font-size: 16px;
+	margin-top:15px;
+}
+.astrodetail_title a{
+	color: #000000;
+	font-weight: bold;
+	font-size: 16px;
+	margin-top: 5px;
+}
+.srvs_title{
+	padding-top:10px;
+	color:#000000;
+	font-weight: bold;
+	font-size: 16px;
+}
+.srvs_txt{
+	color: #505050;
+	padding-top: 5px;
+	font-size: 12px;
+	text-align: justify;
+}
+.astrodetail_cnt{
+	color: #505050;
+	font-size: 12px;
+}
+.astrodetail_lang{
+	font-size: 12px;
+	color: #EE600D;
+}
+.astrod_title{
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 24px;
+	padding: 5px;
+	margin-top: 20px;
+}
+.astrodtlimg1{
+		text-align: center;
+		width: 200px;
+		height: 200px;
+		margin:20px;
+		border:10px solid white;
+		border-radius: 120px;
+	}
+.astrod_cnt{
+	color: #FFFFFF;
+	font-size: 12px;
+}
+.astrod_lang{
+	font-size: 12px;
+	color: #FFFFFF;
+}
+.dtlrating{
+	width: 300px;
+	height: 150px;
+	margin-top: 50px;
+}
+.dtlhd{
+	color: #EE600D;
+	font-weight: bold;
+	font-size: 40px;
+	padding-top:10px;
+	padding-left:20px;
+}
+.dtltxt{
+	color: #505050;
+	text-align: justify;
+	font-size: 14px;
+	padding-left: 20px;
+	padding-right:50px;
+}
+.dltimptxt{
+	width: 350px;
+	color: #EE600D;
+	padding: 10px;
+	text-align: center;
+	font-size: 18px;
+	margin-left: 20px;
+	border: 1px solid #EE600D;
+	border-radius: 20px;
+	background: rgba(238, 96, 13, 0.2);
+}
+.dtlblktxt{
+	padding-left: 20px;
+}
+.dtlhdtxt{
+	font-size: 32px;
+	font-weight: bold;
+	color: #505050;
+	padding-left: 20px;
+}
+.dtllicnt li{
+	color: #505050;
+	font-size: 14px;
+}
+.viewastro{
+	width: 400px;
+	height: 50px;
+	margin-top: 20px;
+}
+.scmli{
+	width: 100%;
+	height: 20%;
+	margin: 10px;
+	text-align: center;
+}
+.socialicon{
+	width: 40px;
+	height: 40px;
+	color: black;
+	font-size:22px;
+	padding: 10px;
+	border-radius: 25px;
+	background: white;
+	margin:10px;
+}
+.mobilesection{
+	background: #F3F3F3;;
+}
+.mobileimg{
+	margin-left:100px;
+	margin-top: 80px;
+	width:80%;
+	height:80%;
+}
+.statusimg11{
+	margin-left:5px;
+	margin-top: 10px;
+	width:10px;
+	height:10px;
+	position: absolute;
+	border-radius: 25px;
+}
+.statusimg1{
+	margin-left:5px;
+	margin-top: 10px;
+	width:10px;
+	height:10px;
+	position: absolute;
+	border-radius: 25px;
+}
+.statusimg{
+	margin-left:175px;
+	margin-top: 40px;
+	width:25px;
+	height:25px;
+	position: absolute;
+	border-radius: 25px;
+	border:6px solid white;
+}
+.dwnldheading{
+	font-size: 24px;
+	color: #505050;
+}
+.dwnldtitle{
+	width:100%;
+	font-weight: bold;
+	font-size:48px;
+	color: #EE600D;
+}
+.dwnldtext{
+	width: 500px;
+	font-size:16px;
+	color: #000000;
+}
+
+.playstoreicon{
+	margin-top: 20px;
+	width: 200px;
+	height: 50px;
+}
+.playstoreicon1{
+	margin-top: 20px;
+	width: 200px;
+	height: 50px;
+	margin-left: 20px;
+}
+.panditimg{
+	margin-left:280px;
+	width: 280px;
+	height:280px;
+}
+
+.ftrlogo{
+	/* margin-left: 420px; */
+	width:300px;
+	height: 50px;
+}
+
+.ftrplaystore{
+	margin-top: 20px;
+	width: 250px;
+	height: 75px;
+	/* margin-left: 300px; */
+}
+.ftrplaystore1{
+	margin-top: 20px;
+	width: 250px;
+	height: 75px;
+	/* margin-left: 50px; */
+}
+.ftrnavbar{
+  width:100%;
+  height:30%;
+  /* margin-left:350px; */
+  padding: 10px;
+  margin: 0px auto;
+  display: block;
+	}
+.ftrnavbar ul {
+  padding: 0;
+  list-style: none;
+  align-items: center;
+}
+.ftrnavbar li {
+  position: relative;
+}
+.ftrnavbar a, .ftrnavbar a:focus {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 0 10px 30px;
+  font-family: "Raleway", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  color:white;
+  white-space: nowrap;
+  transition: 0.3s;
+}
+.ftrnavbar a i, .ftrnavbar a:focus i {
+  font-size: 12px;
+  line-height: 0;
+  margin-left: 5px;
+}
+.ftrnavbar a:hover, .ftrnavbar .active, .ftrnavbar .active:focus, .ftrnavbar li:hover > a {
+  color: #EE600D;
+}
+.abtcnt{
+	padding-left:35px;
+	text-align: justify;
+	font-size: 14px;
+	color: #797979;
+	padding-top: 20px;
+}
+.copyright{
+	width: 100%;
+	height:20px;
+	text-align:center;
+	/* margin-left: 280px; */
+	padding: 20px;
+}
+/* Styles for wrapping the search box */
+
+.main {
+    width: 50%;
+    margin: 10px auto;
+}
+
+/* Bootstrap 4 text input with search icon */
+
+.has-search .form-control {
+    padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+		border-radius: 1.25rem;
+    position: absolute;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+
+}
+.astrodetail_header{
+	margin-top: 20px;
+	width: 100%;
+	height: 30%;
+	background: #EE600D;
+}
+.sub{
+	background-color: #EE600D;
+}
+
+@media (max-width: 768px) {
+	.ftrnavbar{
+  width:300px;
+  height:100%;
+  /* margin-left:30px; */
+  padding: 10px;
+  margin: 0px auto;
+	}
+  .ftrnavbar ul {
+  width:300px;
+  height:100%;
+  /* margin-left:2px; */
+  padding: 0;
+  display: flex;
+  list-style: none;
+  align-items: center;
+	}
+	.ftrnavbar li a {
+		width:100%;
+		text-align: center;
+		font-weight: bold;
+		font-size:22px;
+		display: inline-block;
+	  position: relative;
+	}
+ 
+}
+@media (max-width: 500px) {
+ .ftrnavbar{
+  width:300px;
+  height:100%;
+  margin-left:30px;
+  padding: 10px;
+	}
+  .ftrnavbar ul {
+  width:300px;
+  height:100%;
+  margin-left:2px;
+  padding: 0;
+  display: flex;
+  list-style: none;
+  align-items: center;
+	}
+	.ftrnavbar li a {
+		width:100%;
+		text-align: center;
+		font-weight: bold;
+		font-size:22px;
+		display: inline-block;
+	  position: relative;
+	}
+}
+@media (max-width: 768px) {
+  .frameimg {
+     width: 60%;
+	height: 70%;
+	position: absolute;
+	top: 230px;
+	right: 60px;
+  }
+ 
+}
+@media (max-width: 500px) {
+  .frameimg {
+    width: 60%;
+	height: 70%;
+	position: absolute;
+	top: 230px;
+	right: 60px;
+  }
+}
+@media (max-width: 768px) {
+  .aboutcntimg {
+  width: 60%;
+	height:80%;
+	position: absolute;
+	margin:50px;
+  }
+ 
+}
+@media (max-width: 500px) {
+  .aboutcntimg {
+  width: 60%;
+	height:80%;
+	position: absolute;
+	margin:50px;
+  }
+}
+@media (max-width: 768px) {
+  .aboutcntimg30 {
+  width: 30%;
+	height: 30%;
+	position: absolute;
+	top:180px;
+	margin-top:40px;
+	margin-left: 20px;
+  }
+  .item2{
+	    width: 100%;
+		margin-top:20px;
+		
+	}
+	.items{
+		display: none;
+		width:80%;
+		height:100%;
+		margin-top: 50px;
+		margin-right:80px;
+	}
+	.ourservice{
+		/* width: 300px !important; */
+		height: 520px !important;
+		/* margin-top: 250px !important;
+		margin-top: 44px !important; */
+		margin-bottom: -107px !important;
+	}
+	.abtgrp{
+		width: 100%;
+		height: 80%;
+	}
+ 
+}
+@media (max-width: 500px) {
+  .aboutcntimg30 {
+  width: 30%;
+	height:30%;
+	position: absolute;
+	top:180px;
+	margin-left: 20px;
+  }
+  .item2{
+  	margin-top:20px !important;
+  }
+	.items{
+		display: none;
+		width:80%;
+		height:100%;
+		margin-top: 50px;
+		margin-right:80px;
+	}
+	.ourservice{
+		width: 300px !important;
+		height: 520px !important;
+		/* margin-top: 250px !important; */
+		margin-bottom: -107px !important;
+	}
+}
+@media (max-width: 768px) {
+  .abtxt {
+  width:200px;
+	height:50px;
+	position: absolute;
+	font-size: 18px;
+	margin-top: 220px;
+	margin-left:120px;
+  }
+  .aboutrw{
+  	width:300px;
+  	height:80px;
+  	margin-top:10px;
+  }
+  .readmorebtn{
+  	width: 150px;
+  	height: 50px;
+  	margin-top:53px;
+  	margin-left: -7px;
+  }
+ 
+}
+@media (max-width: 500px) {
+  .abtxt {
+  width:200px;
+	height:50px;
+	position: absolute;
+	font-size: 18px;
+	margin-top: 220px;
+	margin-left:120px;
+  }
+  .aboutrw{
+  	width:300px;
+  	height:80px;
+  	margin-top:10px;
+  }
+  .readmorebtn{
+  	width: 150px;
+  	height: 50px;
+  	margin-top:220px;
+  	margin-left: 20px;
+  }
+}
+@media(max-width: 768px){
+	.astrodiv{
+		width: 320px;
+		height:200px;
+		margin-bottom: 10px;
+		margin-left:20px;
+	}
+	.astrocard{
+		width: 100% !important;
+		min-height:200px;
+		margin-bottom: 10px;
+		margin-left:20px;
+	}
+}
+@media(max-width: 500px){
+	.astrodiv{
+		width: 320px;
+		height:360px;
+		margin-bottom: 10px;
+		margin-left:20px;
+	}
+	.astrocard{
+		width: 320px;
+		height:360px;
+		margin-bottom: 10px;
+		margin-left:20px;
+	}
+}
+@media(max-width: 768px){
+	.astrodiv1{
+		width: 320px;
+		height:360px;
+		margin-bottom: 10px;
+		margin-left:20px;
+	}
+	.astrocard{
+		width: 320px;
+		height:350px;
+		margin-bottom: 10px;
+		margin-left:20px;
+	}	
+}
+@media(max-width: 500px){
+	.astrodiv1{
+		width: 320px;
+		height:350px;
+		margin-bottom: 10px;
+		margin-left:20px;
+	}
+	.astrocard{
+		width: 320px;
+		height:350px;
+		margin-bottom: 10px;
+		margin-left:20px;
+	}
+}
+@media(max-width: 768px){
+	.viewastro{
+		width: 80%;
+		height:40%;
+		margin-top:50px;
+		margin-left: 20px;	
+	}
+	.dtlrating{
+		width: 220px;
+		height: 120px;
+		margin: 50px;
+	}
+}
+@media(max-width: 500px){
+	.viewastro{
+		width: 80%;
+		height:40%;
+		margin-top:50px;
+		margin-left: 20px;	
+	}
+	.dtlrating{
+		width: 220px;
+		height: 120px;
+		margin: 50px;
+  }
+}
+@media(max-width: 768px){
+	.roundellips{
+		width:300px;
+		height:300px;
+		margin:20px;	
+	}
+}
+@media(max-width: 500px){
+	.roundellips{
+		width: 300px;
+		height:300px;
+		margin:20px;	
+	}
+}
+@media(max-width: 768px){
+	.mobileimg{
+		width: 290px;
+		height: 367px;
+		margin: -27px;
+		/* width:250px;
+		height:250px;
+		margin:10px;	 */
+	}
+}
+@media(max-width: 500px){
+	.mobileimg{
+		width: 180px;
+		height:280px;
+		margin:60px;	
+	}
+}
+
+@media(max-width: 768px){
+	.mblcnt{
+		width:300px;
+		height:280px;
+		margin:20px;
+		margin-top: 50px;	
+	}
+	.dwnldtext{
+		text-align: justify;
+	}
+	.iconpsrw{
+		width:300px;
+		height:150px;
+	}
+	.playstoreicon{
+		width:244px;
+		height:50px;
+		/* margin-left: -260px !important; */
+	}
+	.playstoreicon1{
+		width: 248px;
+		height: 50px;
+		margin-left: -1px;
+	}
+	.pimgrw{
+		width: 100%;
+		height:300px;
+		margin-top: 20px;
+	}
+	.panditimg{
+	margin-top:10px;
+	margin:10px;
+	width: 280px;
+	height:280px;
+	}
+	.mobilesection{
+		/* width: 100%;
+		height:1200px; */
+		margin: 20px;
+	}
+}
+@media(max-width: 500px){
+	.mblcnt{
+		width:300px;
+		height:280px;
+		margin:20px;
+		margin-top: 50px;	
+	}
+	.dwnldtext{
+		text-align: justify;
+	}
+	.iconpsrw{
+		width:300px;
+		height:150px;
+		margin:10px;
+	}
+	.playstoreicon{
+		width:226px;
+		height:50px;		
+	}
+	.playstoreicon1{
+		width:226px;
+		height:50px;
+		margin-left: 2px;		
+	}
+	.pimgrw{
+		width: 100%;
+		height:300px;
+		margin-top: 20px;
+	}
+	.panditimg{
+	margin-top:10px;
+	margin:10px;
+	width: 280px;
+	height:280px;
+	}	
+	.mobilesection{
+		/* width: 100%;
+		height:1200px; */
+		margin: 20px;
+	}
+
+}
+@media(max-width: 768px){
+	.ftrlogo{
+		/* width:350px;
+		height:80px; */
+		margin:0px auto;	
+	}
+}
+@media(max-width: 500px){
+	.ftrlogo{
+		/* width: 350px;
+		height:80px; */
+		margin:0px auto;
+	}
+}
+@media(max-width: 768px){
+	
+	.ftrplaystore{
+		/* width:300px;
+		height:50px; */
+		margin-left:30px;
+		/* margin-top: 50px; */
+	}
+	.ftrplaystore1{
+		/* width:300px;
+		height:50px; */
+		margin-left:30px;
+		margin-top: 10px;
+	}
+	.sclink{
+		/* width:300px; */
+		height:100px;
+		margin: 20px;
+	}
+}
+@media(max-width: 500px){
+	
+	.ftrplaystore{
+		/* width:300px;
+		height:50px; */
+		margin:30px;
+		margin-left: 46px;
+	}
+	.ftrplaystore1{
+		/* width:300px;
+		height:50px; */
+		/* margin:30px; */
+		/* margin-left: 46px; */
+	}
+	.sclink{
+		/* width: 300px; */
+		height:100px;
+	}		
+}
+
+@media(max-width: 768px){
+	.abtcnt{
+		width: 100%;
+		height: 50%;
+		text-align: justify;
+		padding-right: 20px;
+		margin-top:13px;		
+	}
+}
+@media(max-width:500px){
+	.abtcnt{
+		width: 100%;
+		height: 50%;
+		text-align: justify-all;
+		/* margin-top:200px;		 */
+	}
+}
+@media(max-width: 768px){
+	.imgheadercnt{
+		width: 100%;
+		height: 50%;
+		text-align: center;
+	}
+	.astroimg{
+		width: 100%;
+		/* height:80%; */
+		text-align: center;
+	}
+	.astroimg1{
+		margin-top: 20px;
+		width: 100px;
+		height: 100px;
+		object-fit: cover;
+  }
+	.astroht{
+		width: 80%;
+	height: 30%;
+	text-align:justify;
+	font-size: 22px;
+	color: #797979;
+	margin-left:50px;
+	}
+}
+@media(max-width:500px){
+	.imgheadercnt{
+		/* width: 100%; */
+		height: 50%;
+	}
+	.astroimg{
+		width: 100%;
+		height: 100%;
+		text-align: center;
+	}
+	.astroimg1{
+		margin-top:20px;
+		width:120px;
+		height:120px;
+  }
+	.astroht{
+		width: 80%;
+		height: 30%;
+		text-align:justify;
+		font-size: 22px;
+		color: #797979;
+		margin-left:50px;
+	}	
+}
+@media(max-width: 768px){
+
+	.srvsdiv{
+		width: 320px;
+		height:183px;
+		margin-bottom: 10px;
+		margin-left:20px;
+	}
+	.srvscard{
+		width: 320px;
+		height:500px;
+		margin-bottom: 10px;		
+		margin-left:20px;
+	}
+	.srvsimg1{
+		/* width: 150px;
+		height:150px; */
+		/* margin-left:40px; */
+	}
+	.srvs_title{
+		/* width:250px;
+		height:50px; */
+		/* font-size:20px; */
+		padding-top:5px;
+	}
+	.srvs_txt{
+		width: 150px;
+		/* height:100px; */
+		/* font-size:16px; */
+		text-align: justify;
+		/* margin-top: 176px; */
+		display: flex;
+		justify-content: center;
+	}	
+}
+@media(max-width: 500px){
+	.srvs_txt{
+		width: 250px !important;
+		height:100px !important;
+		font-size:16px !important;
+		text-align: justify !important;
+		margin-top: 0px !important;
+	}
+}
+@media(max-width: 500px) {
+	.srvsdiv{
+		width: 320px;
+		height:500px;
+		margin-bottom: 10px;
+		margin-left:20px;
+	}
+	.srvscard{
+		width: 320px;
+		height:500px;
+		margin-bottom: 10px;
+		margin-left:20px;
+	}
+	.srvsimg1{
+		width: 150px;
+		height:150px;
+		margin-left: 40px;
+	}
+	.srvs_title{
+		width:250px;
+		height:50px;
+		font-size:20px;
+		padding-top:5px;
+	}
+	.srvs_txt{
+		width: 250px;
+		height:100px;
+		font-size:16px;
+		text-align: justify;
+	}	
+}
+
+@media(max-width: 768px){
+	.section-title1{
+		width: 100%;
+		height: 100%;
+		margin-top:50px;
+	}
+	.cntblk{
+		width:100%;
+		height: 100%;
+		margin: 10px;
+	}
+	.cntblkcard{
+		width:90%;
+		height: 100%;
+		margin: 10px;	
+	}
+	.cntblk1{
+		width:85%;
+		height: 100%;
+		margin-top:20px;
+		margin-left: 20px;	
+	}
+	.cntlogo{
+		text-align: left;
+		font-size: 32px;
+	}
+	.cntmapblk{
+		width:85%;
+		height: 100%;
+		margin-top:20px;
+		margin-left: 20px;	
+	}
+	.cntblkcard{
+		width:100%;
+		height: 100%;		
+	}
+	.cntblk_map{
+		width:100%;
+		height:150px;
+	}
+	.map-container-5{
+		width: 100%;
+		height: 100%;
+	}
+	.cntblk_txt{
+		width: 80%;
+		height: 100%;
+	}
+	.frmcnt{
+		width: 80%;
+		height: 100%;
+	}
+	.cntmainblk{
+	width: 500px;
+	margin-left:10px;
+	}
+	.cntmainblk1{
+	width: 500px;
+	margin-left:10px;
+	}
+	.cntblk_head{
+	color: #505050;
+	font-weight: bold;
+	font-size: 32px;
+	margin-left: 0px;
+	}
+
+}
+@media(max-width:500px){
+	.section-title1{
+		width: 100%;
+		height: 100%;
+		margin-top:50px;
+	}
+	.cntblk{
+		width:90%;
+		height: 100%;
+		margin: 10px;
+	}	
+	.cntblkcard{
+		width:100%;
+		height: 100%;	
+	}	
+	.cntblk1{
+		width:50%;
+		height: 100%;
+		margin: 10px;	
+	}
+	.cntblk1{
+		width:90%;
+		height: 100%;
+		margin-top:20px;
+		margin-left: 20px;	
+	}
+	.cntmapblk{
+		width:85%;
+		height: 100%;
+		margin-top:20px;
+		margin-left: 20px;		
+	}	
+	.cntblkcard{
+		/* width:100%;
+		height:100px; */
+	}
+	.cntblk_map{
+		width:100%;
+		height:100%;
+	}	
+	.map-container-5{
+		width: 100%;
+		height: 100%;
+	}
+	.cntblk_txt{
+		width: 80%;
+		height: 100%;
+	}
+	.frmcnt{
+		width: 80%;
+		height: 100%;
+	}
+	.cntmainblk{
+	width: 500px;
+	margin-left:10px;
+	}
+	.cntmainblk1{
+	width: 500px;
+	margin-left:10px;
+	}
+
+}
+@media(max-width: 768px){
+	.hdr{
+		width: 100%;
+		height: 60%;
+	}
+	.hdr1{
+		width: 100%;
+		height: 50%;
+	}
+	.astrodtlimg1{
+		text-align: center;
+		width: 245px;
+		height: 245px;
+		margin: 40px;
+		border:10px solid white;
+		border-radius: 120px;
+	}
+	.astrod_cnt{
+		width: 100%;
+		height: 30px;
+		font-size: 18px;
+		padding-left:20px;
+	}
+	.astrod_lang{
+		width: 100%;
+		height:30px;
+		font-size:18px;
+		padding-left:20px;
+	}
+	.dtlhd{
+		width: 100%;
+		height: 30px;
+		font-size: 30px;
+		padding: 10px;
+	}
+	.dtltxt{
+		width: 100%;
+		height:auto;
+		padding: 10px;
+	}
+	.dltimptxt{
+		width: 300px;
+		height:80px;
+		text-align: justify;
+		font-size: 16px;
+		padding:20px;
+	}
+	.dtlblktxt{
+		width: 100%;
+		height: 100%;
+		margin: 10px;
+	}
+	.dtlhdtxt{
+		width: 300px;
+		height: 30px;
+		text-align: center;
+		font-size:36px;
+		padding: 20px;
+	}
+	.dtllicnt{
+		width: 300px;
+		height:100%;
+		margin-top:20px;
+		padding-top: 20px;
+		text-align: justify;
+	}
+	.astrod_title{
+		width: 100%;
+		height: 30px;
+		font-size: 28px;
+		padding-left:20px;
+	}
+}
+@media(max-width: 500px){
+.hdr{
+		width: 100%;
+		height: 60%;
+	}
+	.astrodtlimg1{
+		text-align: center;
+		width: 245px;
+		height: 245px;
+		margin: 40px;
+		border:10px solid white;
+		border-radius: 120px;
+	}
+	.astrod_title{
+		width: 100%;
+		height: 30px;
+		font-size: 28px;
+		padding-left:20px;
+	}
+	.astrod_cnt{
+		width: 100%;
+		height: 30px;
+		font-size: 18px;
+		padding-left:20px;
+	}
+	.astrod_lang{
+		width: 100%;
+		height:30px;
+		font-size:18px;
+		padding-left:20px;
+	}
+	.dtlhd{
+		width: 100%;
+		height: 30px;
+		font-size: 30px;
+		padding: 10px;
+	}
+	.dtltxt{
+		width: 100%;
+		height:400px;
+		padding: 10px;
+	}
+	.dltimptxt{
+		width: 300px;
+		height:80px;
+		text-align: justify;
+		font-size: 16px;
+		padding:20px;
+	}
+	.dtlblktxt{
+		width: 100%;
+		height: 100%;
+		margin: 10px;
+	}
+	.dtlhdtxt{
+		width: 300px;
+		height: 30px;
+		text-align: center;
+		font-size:36px;
+		padding: 20px;
+	}
+	.dtllicnt{
+		width: 300px;
+		height:100%;
+		margin-top:20px;
+		padding-top: 20px;
+		text-align: justify;
+	}
+}
+@media(max-width: 768px){
+	.copyright{
+	width: 100%;
+	height:20px;
+	text-align:center;
+	margin: 5px;
+	padding: 20px;
+	}
+	.aboutimages{
+		width: 250px;
+		height: 250px;
+		margin-right: 10px;
+	}
+	.statusimg{
+		margin-left:245px;
+		margin-top: 80px;
+		width:35px;
+		height:35px;
+		position: absolute;
+		border-radius: 25px;
+		border:8px solid white;
+  }
+  .statusimg1{
+		margin-left:2px;
+		margin-top: 10px;
+		width:15px;
+		height:15px;
+		position: absolute;
+		border-radius: 25px;
+	}
+	.statusimg11{
+		margin-left:2px;
+		margin-top: 15px;
+		width:15px;
+		height:15px;
+		position: absolute;
+		border-radius: 25px;
+	}
+}
+@media(max-width: 500px){
+	.copyright{
+	width:300px;
+	height:20px;
+	padding: 20px;
+	}
+	.aboutimages{
+		width: 250px;
+		height: 250px;
+		margin-right: 10px;
+	}	
+	.statusimg{
+		margin-left:245px;
+		margin-top: 80px;
+		width:35px;
+		height:35px;
+		position: absolute;
+		border-radius: 25px;
+		border:8px solid white;
+  }
+  .statusimg1{
+		margin-left:2px;
+		margin-top: 10px;
+		width:15px;
+		height:15px;
+		position: absolute;
+		border-radius: 25px;
+	}
+	.statusimg11{
+		margin-left:2px;
+		margin-top: 15px;
+		width:15px;
+		height:15px;
+		position: absolute;
+		border-radius: 25px;
+	}
+}
+@media(max-width: 768px){
+	.srch{
+		width: 80%;
+		margin: 10px auto;
+	}
+}
+@media(max-width:500px){
+	.srch{
+		width: 80%;
+		margin: 10px auto;
+	}
+}
+
+@media(max-width: 1100px) {
+	.panditimg{
+/* margin-left: 232px; */
+width: 280px;
+height: 280px;
+margin-top: 10px;
+	}
+
+
+}

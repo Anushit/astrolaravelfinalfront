@@ -1,0 +1,225 @@
+.ftrlogo {
+	/* margin-left: 0!important; */
+}
+
+.ftrnavbar ul {
+	margin-left: 0!important;
+}
+
+.social span, .social i {
+	display: inline-block;
+    margin: 5px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.social i{
+	 line-height: inherit;
+}
+
+.cor-img {
+	width: 100%!important;
+}
+.services-block-three{
+	  width: 150px !important;
+    margin: 10px;
+    height: 150px !important;
+    /* height: 100%; */
+  margin-bottom: 0px !important;
+  /* width: 150px;
+  height: 100%;  */
+
+}
+.services-block-three i {
+    font-size: 32px;
+}
+.services-block-three>a {
+    display: block;
+    border: 2px solid #EE600D;
+    border-radius: 4px;
+    text-align: center;
+    background: #fff;
+    padding: 20px;
+    position: relative;
+  margin-bottom:30px;
+
+}
+.services-block-three>a:before {
+    display: block;
+    content: "";
+    width: 9%;
+    height: 17%;
+    position: absolute;
+    bottom: -2px;
+    right: -2px;
+    border-bottom: 2px solid #EE600D;
+    border-right: 2px solid #EE600D;
+    transition: all 0.5s ease 0s;
+    -webkit-transition: all 0.5s ease 0s;
+}
+.services-block-three>a:after {
+    display: block;
+    content: "";
+    width: 9%;
+    height: 17%;
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    border-top: 2px solid #EE600D;
+    border-left: 2px solid #EE600D;
+    transition: all 0.5s ease 0s;
+    -webkit-transition: all 0.5s ease 0s;
+}
+.padding-15px-bottom {
+    padding-bottom: 15px;
+}
+.services-block-three h4 {
+    color: #6f6f6f;
+    font-size: 14px;
+    margin-bottom: 5px;
+    font-weight: 600;
+}
+.services-block-three p {
+    margin-bottom: 0;
+  color: #757575;
+}
+.services-block-three>a:hover {
+    opacity: 1;
+    border-color: #d5d5d5;
+}
+a:hover, a:active {
+    color: #EE600D;
+    text-decoration: none;
+}
+
+.services-block-three>a:hover:before, .services-block-three>a:hover:after {
+    width: 95%;
+    height: 90%;
+}
+.services-block-three{
+	margin-bottom:1px;
+  }
+  .services-block-three i {
+	  font-size: 32px;
+  }
+  .services-block-three>a {
+	  display: block;
+	  border: 2px solid #d5d5d5;
+	  border-radius: 4px;
+	  text-align: center;
+	  background: #fff;
+	  padding: 20px;
+	  position: relative;
+	margin-bottom:30px;
+  
+  }
+  .services-block-three>a:before {
+	  display: block;
+	  content: "";
+	  width: 9%;
+	  height: 17%;
+	  position: absolute;
+	  bottom: -2px;
+	  right: -2px;
+	  border-bottom: 2px solid #EE600D;
+	  border-right: 2px solid #EE600D;
+	  transition: all 0.5s ease 0s;
+	  -webkit-transition: all 0.5s ease 0s;
+  }
+  .services-block-three>a:after {
+	  display: block;
+	  content: "";
+	  width: 9%;
+	  height: 17%;
+	  position: absolute;
+	  top: -2px;
+	  left: -2px;
+	  border-top: 2px solid #EE600D;
+	  border-left: 2px solid #EE600D;
+	  transition: all 0.5s ease 0s;
+	  -webkit-transition: all 0.5s ease 0s;
+  }
+  .padding-15px-bottom {
+	  padding-bottom: 15px;
+  }
+  .services-block-three h4 {
+	  color: #6f6f6f;
+	  font-size: 10px;
+	  margin-bottom: 10px;
+	  font-weight: 600;
+  }
+  .services-block-three p {
+	  margin-bottom: 0;
+	color: #757575;
+  }
+  .services-block-three>a:hover {
+	  opacity: 1;
+	  border-color: #d5d5d5;
+  }
+  a:hover, a:active {
+	  color: #EE600D;
+	  text-decoration: none;
+  }
+  
+  .services-block-three>a:hover:before, .services-block-three>a:hover:after {
+	  width: 95%;
+	  height: 90%;
+  }
+  .astrodiv{
+    /* border: 1px solid #EE600D; */
+    margin: 10px;
+
+  }
+.error {
+    color: #dc3545;
+    font-size: 14px;
+}
+#navbarNav{
+  text-align: center;
+  justify-content: center;
+  display: flex;
+}
+.fal{
+  color:#EE600D
+}
+.read{
+  background-color: #ee600d6e;
+  margin-top: 60px;
+  border: 1px solid #EE600D;
+  width:128px;
+  height:40px;
+}
+.readtext{
+  color: #EE600D;
+}
+.moreastro {
+margin: 5px;
+font-size: 20px;
+color: #EE600D;
+}
+.oursee{
+   background-color: #ffffff;
+   width: 128px;
+   height: 43px;
+   margin: 28px auto;
+}
+.astrobtn {
+  background-color: #ee600d6e;
+  /* margin-top: 76px; */
+  border: 1px solid #EE600D;
+  width: 306px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  margin: 11px auto;
+
+}
+/* .row {
+    display: table;
+}
+
+[class*="col-"] {
+    float: none;
+    display: table-cell;
+    vertical-align: top;
+} */
